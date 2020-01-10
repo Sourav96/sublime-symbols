@@ -19,6 +19,7 @@
 		{ "trigger": "Lambda", "contents": "Λ" },
 		{ "trigger": "lambda", "contents": "λ" },
 		{ "trigger": "mu", "contents": "μ" },
+		{ "trigger": "nabla", "contents": "∇" },
 		{ "trigger": "nu", "contents": "ν" },
 		{ "trigger": "Xi", "contents": "Ξ" },
 		{ "trigger": "xi", "contents": "ξ" },
