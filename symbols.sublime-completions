@@ -19,7 +19,6 @@
 		{ "trigger": "Lambda", "contents": "Λ" },
 		{ "trigger": "lambda", "contents": "λ" },
 		{ "trigger": "mu", "contents": "μ" },
-		{ "trigger": "nabla", "contents": "∇" },
 		{ "trigger": "nu", "contents": "ν" },
 		{ "trigger": "Xi", "contents": "Ξ" },
 		{ "trigger": "xi", "contents": "ξ" },
@@ -41,6 +40,9 @@
 		{ "trigger": "Psi", "contents": "Ψ" },
 		{ "trigger": "psi", "contents": "ψ" },
 		{ "trigger": "Omega", "contents": "Ω" },
-		{ "trigger": "omega", "contents": "ω" }
+		{ "trigger": "omega", "contents": "ω" },
+		{ "trigger": "nabla", "contents": "∇" },
+		{ "trigger": "forall", "contents": "Ɐ" },
+		{ "trigger": "forany", "contents": "∃" }
 	]
 }
